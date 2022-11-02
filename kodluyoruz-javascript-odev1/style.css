@@ -1,0 +1,21 @@
+body{
+    background-color: #32383e;
+}
+
+h1{
+    color: aqua;
+    text-align: center; 
+    margin-top: 3rem; 
+
+}
+
+p{
+    color: aqua;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+img{
+    margin-top: 2rem;
+}
+
